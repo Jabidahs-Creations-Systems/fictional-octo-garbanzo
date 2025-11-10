@@ -8,6 +8,6 @@ name:
 description:
 ---
 
-# My Agent
+# [Your Agent Name]
 
 Describe what your agent does here...
