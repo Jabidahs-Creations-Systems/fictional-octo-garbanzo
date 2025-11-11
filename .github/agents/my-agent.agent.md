@@ -5,7 +5,7 @@
 # For format details, see: https://gh.io/customagents/config
 
 name: My Agent
-description:
+description: This agent automates tasks and provides assistance for repository management based on user queries.
 ---
 
 # Github Co Pilot Agents 
